@@ -40,6 +40,10 @@ WHERE
 ### Question 6. Timezone for trigger
 
 ```bash
-
+triggers:
+  - id: daily
+    type: io.kestra.plugin.core.trigger.Schedule
+    cron: "@daily"
+    timezone: America/New_York
 ```
-**Answer: X**
+**Answer: [​Schedule ​Trigger](https://kestra.io/docs/workflow-components/triggers/schedule-trigger)**
