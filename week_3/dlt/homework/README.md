@@ -1,5 +1,7 @@
 # Workshop 1 Homework: Ingestion with dlt
 
+[homework.py](https://github.com/victorbarreiros/data-engineering-zoomcamp-2025/blob/main/week_3/dlt/main.py)
+
 ### Question 1. The version
 ```bash
 dlt --version
