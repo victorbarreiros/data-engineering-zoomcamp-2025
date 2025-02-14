@@ -3,6 +3,7 @@ week_1_basics/docker_sql/yellow_tripdata_2021-01.csv
 week_1_basics/homework/green_tripdata_2019-10.csv
 .DS_Store
 *.json
+*.duckdb
 
 # Local .terraform directories
 **/.terraform/*
