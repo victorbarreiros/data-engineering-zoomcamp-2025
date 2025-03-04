@@ -1,4 +1,4 @@
-# Module 3 Homework: Analytics Engineering
+# Module 4 Homework: Analytics Engineering
 
 ### Question 1. Model resolution 
 ```sql
